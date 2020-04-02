@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kota Indonesia</string>
+    <string name="city_title">Nama Kota</string>
+    <string name="city_desc">Deskripsi</string>
+    <string name="populasi">Populasi</string>
+    <string name="province">Provinsi</string>
+    <string name="more">Selengkapya</string>
+    <string name="detail">Detail</string>
+    <string name="city_identity">Indentitas Kota</string>
+</resources>
